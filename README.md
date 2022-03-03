@@ -1,4 +1,9 @@
-# portfolio-SAMI-FATMI
+<img src="./assets/Timeline.png" alt="Sami Fatmi"
+	title="My professional life's timeline" width="50%" />
+
+
+# Sami Fatmi
+
 
 Jag heter Sami
 
