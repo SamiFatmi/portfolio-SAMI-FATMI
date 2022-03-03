@@ -1,5 +1,5 @@
 <img src="./assets/Timeline.png" alt="Sami Fatmi"
-	title="My professional life's timeline" width="50%" />
+	title="My professional life's timeline" width="100%" />
 
 
 # Sami Fatmi
