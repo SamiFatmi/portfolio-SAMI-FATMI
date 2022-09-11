@@ -12,3 +12,14 @@ Data science is a mixture of mathematics, statistics and analysis which I am alr
 Concerning my hobbies, I am a horse rider and horse trainer. Since i moved to Sweden I also started fishing. I hang out pretty often with friends, and when I am not outside I am on my computer learning something new or working on some AI!
 
 I am looking for a new challenge where I can continue to learn and grow, and make a real impact on the world.
+
+
+# Github Portfolio :briefcase: 
+
+| Repo | Description |
+|------|-------------|
+| [Computer vision](https://github.com/SamiFatmi/Deep-Learning-SAMI-FATMI/tree/main/Lab)    |   Deep Learning & Transfer Learning          |
+| [Bitcoin prediction](https://github.com/SamiFatmi/Bitcoin-price-prediction/blob/main/LSTM.ipynb)     |   RNN & LSTM          |
+| [Recommender System](https://github.com/SamiFatmi/Machine-Learning-SAMI-FATMI/blob/main/Labs/1-Recommender_system.ipynb)    | Machine Learning |
+| [Disease prediction](https://github.com/SamiFatmi/Machine-Learning-SAMI-FATMI/blob/main/Labs/2-Disease_prediction.ipynb)    | Machine Learning |
+| [Project Euler](https://github.com/SamiFatmi/Project-Euler/blob/main/Project_Euler.ipynb)     | Mathematical/Computer programming |
